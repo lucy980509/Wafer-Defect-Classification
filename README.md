@@ -9,8 +9,7 @@ This project focuses on developing a deep learning model to automatically classi
 
 ## 3. Project Structure
 ```text
-├── notebooks/
-│   └── Wafer_Defect_Classification.ipynb
+├── notebooks/Wafer_Defect_Classification.ipynb
 ├── requirements.txt
 └── README.md
 
