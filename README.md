@@ -14,7 +14,7 @@ This project focuses on developing a deep learning model to automatically classi
 ├── requirements.txt
 └── README.md
 
-## 4. Setup
+4. Setup
 To replicate the environment for this project, install the necessary dependencies using the following command:
 
 ```bash
