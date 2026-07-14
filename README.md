@@ -1,2 +1,21 @@
 # Wafer-Defect-Classification
-Addressing data imbalance in wafer defect classification using class-weighting strategies in PyTorch.
+
+1. Project Overview
+This project focuses on developing a deep learning model to automatically classify wafer defect patterns, aiming to improve yield rates in semiconductor manufacturing. A core challenge addressed in this research is the inherent data imbalance in manufacturing datasets. By implementing effective class-weighting strategies, this project seeks to mitigate bias and optimize the classification performance of the model.
+
+2. Key Approaches
+Data Imbalance Mitigation: Addressing the disproportionate distribution of defect classes by applying custom class-weighting strategies to the loss function.
+
+Model Development: Utilizing the PyTorch framework to design and train a robust neural network architecture suitable for capturing complex wafer defect patterns.
+
+3. Project Structure
+Plaintext
+├── notebooks/
+│   └── Wafer_Defect_Classification.ipynb  # Core implementation, training, and analysis
+├── requirements.txt                       # Project dependencies and environment specification
+└── README.md                              # Project documentation
+
+5. Setup
+To replicate the environment for this project, install the necessary dependencies using the following command:
+Bash
+pip install -r requirements.txt
