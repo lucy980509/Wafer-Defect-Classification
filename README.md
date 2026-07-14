@@ -12,9 +12,9 @@ This project focuses on developing a deep learning model to automatically classi
 ├── notebooks/Wafer_Defect_Classification.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 4. Setup
 To replicate the environment for this project, install the necessary dependencies using the following command:
 
-```bash
+bash
 pip install -r requirements.txt
