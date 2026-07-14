@@ -15,4 +15,4 @@ This project focuses on developing a deep learning model to automatically classi
 ```
 ## 4. Setup
 To replicate the environment for this project, install the necessary dependencies using the following command:
-```pip install -r requirements.txt```
+```\npip install -r requirements.txt```
